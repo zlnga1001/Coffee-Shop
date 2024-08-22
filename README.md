@@ -1,4 +1,4 @@
-<h1>TAN</h1>
+<h1>TAN Coffee Shop</h1>
 <img width="762" alt="Screenshot 2024-08-22 at 8 23 32 AM" src="https://github.com/user-attachments/assets/83db1cd5-9cb2-4ebd-8311-c25a2eec9126">
 <br>
 <img width="761" alt="Screenshot 2024-08-22 at 8 24 25 AM" src="https://github.com/user-attachments/assets/e967c578-59c4-47cf-97f3-2e5ce7068cd8">
