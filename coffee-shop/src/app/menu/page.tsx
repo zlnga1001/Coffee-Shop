@@ -1,4 +1,4 @@
-// pages/menu.js or app/menu/page.js (depending on your Next.js setup)
+// pages/menu.js or app/menu.js (depending on your Next.js setup)
 
 "use client";
 
@@ -6,8 +6,9 @@ import Image from "next/image";
 import { useState } from "react";
 import Link from "next/link";
 import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
-import CustomCursor from "../components/CustomCursor"; // Adjust path if needed
-import ChatboxAgent from "../components/Chatbox"; // Adjust path if needed
+import CustomCursor from "@/app/CustomCursor";
+import ChatboxAgent from "@/app/Chatbox";
+
 
 
 export default function MenuPage() {
