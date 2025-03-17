@@ -24,3 +24,15 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.absolute {
+  position: absolute;
+}
+
+.opacity-50 {
+  opacity: 1.0;
+}
+
+.z-10 {
+  z-index: 10; /* Ensures the drink image is on top */
+}
